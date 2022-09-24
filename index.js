@@ -26,7 +26,7 @@ function play(question, answer) {
 var questions = [
   {
     question: "Q1.) where do I live?",
-    answer: "in ritu's heart"
+    answer: "indore"
   },
   {
     question: "Q2.) what is my favourite color? ",
